@@ -10,7 +10,7 @@ Frontend Developer
 - Telegram:  [_muboriz95_](https://t.me/muboriz95)a
 
 ### About me:
-
+  My goal is to become a specialist in Front-End Development
 
 ### Key skills:
 
