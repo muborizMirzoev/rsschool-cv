@@ -5,7 +5,7 @@ Frontend Developer
 ### Contacts:
 
 - E-mail:  muboriz10@gmail.com
-- Phone number:  8996936****
+- Phone number:  8996937****
 - Skype:  live:.cid.a2ada52d9924c8ed 
 - Telegram:  [_muboriz95_](https://t.me/muboriz95)a
 
