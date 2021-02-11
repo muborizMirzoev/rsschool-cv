@@ -37,7 +37,12 @@ function anagrams(word, words) {
 ### Graduation:
 
 _Tomsk Polytechnic Universite 2019 - 2021_ 
-_FreeCodeCamp_ 
+
+
+### Education:
+1. HTML, CSS on htmlacademy.ru
+2. Javascript on learn.javascript.ru
+3. FreeCodeCamp
 
 ### English level:
 
