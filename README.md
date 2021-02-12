@@ -1,1 +1,1 @@
-# rsschool-cv
+https://muborizMirzoev/rsschool-cv/cv
